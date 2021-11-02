@@ -33,4 +33,4 @@ The plugin interface is pretty self explanatory, but if you don't understand how
 
 https://www.roblox.com/library/5456753037/Welder
 
-If you find any issue, feel free to report it at the issues section, I'll be looking!
+This plugin is no longer being worked on and new issues won't be adressed. Consider this as a simple but cool resource to learn a little bit about roblox plugins.
